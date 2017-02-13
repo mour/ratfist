@@ -1,0 +1,6 @@
+[submodule "ratfist-stm32"]
+	path = ratfist-stm32
+	url = https://github.com/mour/ratfist-stm32.git
+[submodule "ratfist-server"]
+	path = ratfist-server
+	url = https://github.com/mour/ratfist-server.git
